@@ -1,12 +1,31 @@
-1 | You awaken in a bizarre alien landscape. Do you: 1) Search for your crashed starship 2) Look for signs of intelligent life | 2 | 3
-2 | You find your starship crashed into a crystalline formation. Do you: 1) Check the ship for supplies 2) Try to repair the communications system | 4 | 5
-3 | You see structures in the distance suggestive of intelligent life. Do you: 1) Head towards the structures 2) Try to avoid potential danger by taking a different path | 7 | 8
-4 | Searching the ship, you find an emergency survival kit. Do you: 1) Take it with you 2) Store it for later | -1 | 6 
-5 | As you attempt to repair the communications system, a signal is picked up. Do you: 1) Try to decipher the signal 2) Broadcast a distress call | 6 | 9
-6 | You hear a strange noise outside the ship. Do you: 1) Investigate the noise with the survival kit in hand 2) Stay inside the ship and try to fortify the entrance | 10 | 2 
-7 | You find a bustling alien city and the inhabitants extend a warm greeting. Do you: 1) Accept their hospitality 2) Remain wary and keep your distance | 9 | 11
-8 | You encounter a dangerous looking alien creature. Do you: 1) Try to communicate with it 2) Run back to the ship | 3 | 2
-9 | The alien city offers help to repair your ship. Do you: 1) Accept their help 2) Decline and try to fix the ship yourself | 12 | 5
-10 | The noise is from a friendly looking creature. Do you: 1) Try to pet it 2) Reside back into the ship | -1 | 2
-11 | The inhabitants turn hostile. Do you: 1) Try to fight 2) Run away and look for a better place to hide | 10 | 7
-12 | The starship is repaired and the aliens bid you farewell. Do you: 1) Head back to home planet 2) Stay and explore more about the alien planet | -1 | 3
+1|The world you once knew has collapsed, and you find yourself with a group of old friends in a dilapidated safe house. A dangerous gang is coming your way. What do you do?|2|3
+2|After deciding to face the gang, you manage to scare them off. Everyone is filled with adrenaline at your brave act. Now, you're left with two choices.|4|5
+3|You decide to lie low, remaining hidden. The adrenaline and fear forcing you all to go silent. What now?|6|7
+4|You decide to take advantage of the reprieve to secure the safe house further in case they return. But you need resources.|8|9
+5|You decide to move out and find a more secure hideout. You have two possible directions to choice from.|10|11
+6|With everyone silent, tensions rise. A financial advisor among you suggests scavenging or repurposing resources.|12|13
+7|You wait in silence, making the decision of next move crucial.|14|15
+8|You decided to raid a nearby convenience store. However, it's either cross a gang-controlled area or risk the mutant-infested sewers.|16|17
+9|You opt to scavenge potentially useful items in a nearby abandoned school. The main enrance seems risky, but there's an alternative.|18|19
+10|With everything quickly packed, you choose to move north towards an old forgotten military bunker, or west to the mountains.|20|21
+11|You decide to move south where the rumors suggest a thriving underground community exists, or you could head east to the coast.|22|23
+12|You decide to use what you have to fortify your hiding place, it's either use the furniture or the scattered car parts outside.|24|25
+13|You brave to venture outside to look for resources. Do you choose the ruined mall or the deserted warehouse?|26|27
+14|Deciding to strike first before the gang returns, you have the options of preparing a trap, or making stealth attack.|28|29
+15|You decide to abandon your hiding place and find a new one. Where will your group go?|30|31
+16|You brave through the gang-controlled area, facing an intersection. You can either venture deeper into the territory or try to escape out of it.|None|None
+17|You chose the mutant-infested sewers. Stealth is necessary but will you stick to the shadows or move swiftly past danger?|None|None
+18|You scout the school's front entrance where gang graffiti looms ominously, or you explore the large fallen tree at the back that smashed a pathway inside.|None|None
+19|You attempt to enter the school via a broken window, considering either moving to the second floor or exploring the ground level.|None|None
+20|You head north, spotting a small village on the way. Either investigate the village or continue straight to the bunker.|None|None
+21|You head west, towards the mountains. Either going through a forest path or climbing over a hazardous mountain pass.|None|None
+22|You head south, seeing smoke in the distance. You could ignore it and press on, or divert to check it out.|None|None
+23|You head east, to the coast where you could try to contact other survivors via radio signals or search for a boat to escape.|None|None
+24|You barricade with furniture, working around which room to make the real safe house: the basement or the attic?|None|None
+25|You fortify your position using car parts, deciding if you want to focus on shielding windows, or reinforcing doors.|None|None
+26|You head to the mall and you can either search for food in the grocery section, or look for medicine in the pharmacy.|None|None
+27|You head to the warehouse, weighing whether to go for the forgotten tech in the upper sections or scrounge in the lower levels for provisions.|None|None
+28|You prepare for a trap, struggling with the decision of using fire as a scare tactic, or creating pitfall traps.|None|None
+29|You plan a stealth attack, wondering whether to strike them head-on in their sleep or sabotage their vehicles.|None|None
+30|You abandon your hiding place for a tree-top dwelling in the forest, but now, should you conceal the shelter or prepare for possible attacks?|None|None
+31|If you flee towards the coast, do you try to blend in with other survivors or establish an isolated safe house?|None|None
